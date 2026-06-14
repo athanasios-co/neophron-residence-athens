@@ -17,7 +17,7 @@ title: Home Neophron Athens
 <section class="text-block measure  blobbed blob--lg blob-overlap style-brick ivory">
   <h3>An urban home for calm and focus.</h3>
   <p>A relaxing hideaway in the center of a busy city.</p>
-<img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="office_desk">
+<img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="office_desk" data-lightbox>
   <!-- CTA for block 1 -->
   <div class="cta-group">
     <a class="cta cta--accent" href="mailto:oaao213@gmail.com" target="_blank" rel="noopener">Explore the residence.</a>
@@ -28,8 +28,8 @@ title: Home Neophron Athens
 
 <!-- Block 2 -->
 <section class="text-block measure blobbed blob--md blob-right blob-overlap style-brick ivory">
-  <h3>It feels like a home.</h3>
-  <p>Feel like a local, for a while or for a little longer. Enjoy the calmness of the residence and its beautiful surroundings.</p>
+  <h3>Feel at home.</h3>
+  <p>Feel like a local, for a while or for a little longer. Enjoy the calmness of the apartment and its beautiful surroundings.</p>
 
   <!-- CTA for block 2 -->
   <div class="cta-group">
@@ -40,10 +40,42 @@ title: Home Neophron Athens
 <!-- Intro blurb -->
 <div class="measure blobbed blob--sm blob-center blob-overlap style-brick ivory">
   <div class="blurb">
-    <h3>Appeal, comfort, serenity.</h3>
+    <!--<h3>Appeal, comfort, serenity.</h3>-->
   </div>
+</div>
 
-  <!-- CTA under the blurb -->
+<!-- Photo Strip Gallery (OUTSIDE, full-bleed) -->
+<div class="photo-strip-wrapper">
+  <div class="photo-strip">
+    <div class="photo-strip-item" data-lightbox data-lb-group="strip-gallery">
+      <img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="Living Room">
+      <div class="photo-strip-caption">Living Room</div>
+    </div>
+
+    <div class="photo-strip-item" data-lightbox data-lb-group="strip-gallery">
+      <img src="{{ site.baseurl }}/assets/img/bedroom1.webp" alt="Bedroom">
+      <div class="photo-strip-caption">Bedroom 1</div>
+    </div>
+
+    <div class="photo-strip-item" data-lightbox data-lb-group="strip-gallery">
+      <img src="{{ site.baseurl }}/assets/img/bedroom2.webp" alt="Bedroom 2">
+      <div class="photo-strip-caption">Bedroom 2</div>
+    </div>
+
+    <div class="photo-strip-item" data-lightbox data-lb-group="strip-gallery">
+      <img src="{{ site.baseurl }}/assets/img/bathroom.webp" alt="Bathroom">
+      <div class="photo-strip-caption">Bathroom</div>
+    </div>
+
+    <div class="photo-strip-item" data-lightbox data-lb-group="strip-gallery">
+      <img src="{{ site.baseurl }}/assets/img/kitchen.webp" alt="Kitchen">
+      <div class="photo-strip-caption">Kitchen</div>
+    </div>
+  </div>
+</div>
+
+<!-- CTA after the gallery -->
+<div class="measure">
   <div class="cta-group">
     <a class="cta" href="mailto:oaao213@gmail.com" target="_blank" rel="noopener">Get in touch</a>
   </div>
@@ -75,7 +107,7 @@ title: Home Neophron Athens
         a vast piloti, terazzo balconies,
         minimal railing, levelled outdoor staicases,
         minimalist communal spaces with slate stone slabs.</p>
-  <img src="{{ site.baseurl }}/assets/img/building-facade.webp" alt="building_facade">
+  <img src="{{ site.baseurl }}/assets/img/building-facade.webp" alt="building_facade" data-lightbox>
 
 
   <section class="text-block measure blobbed blob--md blob-right blob-overlap style-brick ivory">
