@@ -31,11 +31,11 @@ title: Home Neophron Athens
   <h3>Feel at home.</h3>
   <p>Feel like a local, for a while or for a little longer. Enjoy the calmness of the apartment and its beautiful surroundings.</p>
 
-  <!-- CTA for block 2 -->
+  <!-- CTA for block 2
   <div class="cta-group">
     <a class="cta" href="mailto:oaao213@gmail.com" target="_blank" rel="noopener">Location is everything.</a>
   </div>
-</section>
+</section> -->
 
 <!-- Intro blurb -->
 <div class="measure blobbed blob--sm blob-center blob-overlap style-brick ivory">
