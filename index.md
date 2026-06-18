@@ -9,7 +9,7 @@ title: Home Neophron Athens
 <div class="measure">
   <h1 class="blurb">Neophron Residence</h1>
   <p class="blurb">
-    <small>Your calming retreat in central Athens.</small>
+    <small>Your retreat in central Athens.</small>
   </p>
 </div>
 
@@ -89,11 +89,11 @@ title: Home Neophron Athens
     Most notably, Neophron is thought to be the originator of the Medea story,
      which in turn Euripides allegedly used to develop his infamous tragedy.</p>
   <h3>The residence</h3>
-  <h4>Feel the city in an apartment designed as a home, surrounded by the leafiest urban areas of central Athens.</h4>
-  <h4>Chores are taken care of</h4>
+  <h4>Experience the city in an apartment designed as a home, surrounded by the leafiest urban areas of central Athens.</h4>
+  <h4>Care</h4>
   <p>Cleaning, laundry, maintenance, are all taken care of by the kindest and most trusted people, their names Anna and Margarita.
      Together we can all discuss what fits your schedule best and find solutions.
-      Do you need occasional mediterranean in-house cooking too?</p>
+      Thinking of the occasional mediterranean in-house cooking too?</p>
   <h3>The area</h3>
   <h4>Discover some of the most authentic and elegant neighbourhoods of Athens: Pagkrati, Ilisia, Kolonaki, Lycabettus.</h4>
   <p>Explore two urban natural parks of Athens; Ilisia park and Lycabettus hill,
