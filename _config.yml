@@ -9,5 +9,5 @@ show_downloads: false
 google_analytics:
 include: ["assets"]
 
-url: "https://hyper-thanatos.github.io"
+url: "https://athanasios-co.github.io"
 baseurl: "/neophron-residence-athens"
